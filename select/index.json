@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Antología",
+  "base_artist": "Shakira",
+  "createdAt": "2026-01-14T02:16:10.228730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Antologia",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/01_Antologia_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Antologia",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/02_Antologia_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Antología",
+      "artist": "Los Elegantes de Jerez",
+      "has_synced": false,
+      "path": "select/03_Antología_Los_Elegantes_de_Jerez.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Antología",
+      "artist": "Los Dos Carnales",
+      "has_synced": false,
+      "path": "select/04_Antología_Los_Dos_Carnales.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "16 - Antologia",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/05_16_-_Antologia_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Antologia",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/06_Antologia_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Antología",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/07_Antología_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Antología",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/08_Antología_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Antologia",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/09_Antologia_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Antología de caricias",
+      "artist": "Chicos de Barrio",
+      "has_synced": true,
+      "path": "select/10_Antología_de_caricias_Chicos_de_Barrio.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Antología de Caricias",
+      "artist": "Anthony Santos",
+      "has_synced": true,
+      "path": "select/11_Antología_de_Caricias_Anthony_Santos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Antología De Caricias",
+      "artist": "Anthony Santos",
+      "has_synced": true,
+      "path": "select/12_Antología_De_Caricias_Anthony_Santos.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Antología de caricias",
+      "artist": "Antony Santos",
+      "has_synced": true,
+      "path": "select/13_Antología_de_caricias_Antony_Santos.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Antologia",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/14_Antologia_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Antologia - El Dorado World Tour Live",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/15_Antologia_-_El_Dorado_World_Tour_Live_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Antologia",
+      "artist": "Eden Muñoz",
+      "has_synced": true,
+      "path": "select/16_Antologia_Eden_Muñoz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Antologia",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/17_Antologia_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Antologia",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/18_Antologia_Shakira.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Antología",
+      "artist": "Shakira",
+      "has_synced": false,
+      "path": "select/pl_01_Antología_Shakira.txt"
+    }
+  ]
+}
